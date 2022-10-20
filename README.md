@@ -1,13 +1,5 @@
-# Macro Deck Icons: Overwatch - Hero Portraits
-All Hero Portraits from Overwatch 2 as an Icon Pack for Macro Deck 2.
-
-Hero Portraits can be seen in the bottom left corner in-game (yourself)
-
-### Creation Progress
-First the assets get exported, then a Python script gets run which:
-
-1. Puts everything into a single folder to ease the importing
-2. Renames the file to fit the name of the Hero
+# Macro Deck Icons: Overwatch - Other
+Other Icons that don't fit in any other category
 
 <hr />
 
