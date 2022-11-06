@@ -1,5 +1,5 @@
-# Macro Deck Icons: Overwatch - Other
-Other Icons that don't fit in any other category
+# Macro Deck Icons: Overwatch - Player Icons
+All Player Icons from Overwatch 2 for Macro Deck
 
 <hr />
 
