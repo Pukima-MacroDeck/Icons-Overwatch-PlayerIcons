@@ -1,9 +1,9 @@
 {
    "type" : "IconPack",
-   "name" : "Overwatch - Other",
+   "name" : "Overwatch - Player Icons",
    "author" : "Pukima",
-   "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-Other",
-   "packageId" : "Pukima.Overwatch.Other",
+   "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-PlayerIcons",
+   "packageId" : "Pukima.Overwatch.PlayerIcons",
    "version" : "1.0.0",
    "target-plugin-api-version" : 36
 }
